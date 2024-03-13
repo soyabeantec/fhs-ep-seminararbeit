@@ -1,0 +1,16 @@
+[0] Config.pm:307> INFO - This is Biber 2.19
+[0] Config.pm:310> INFO - Logfile is 'main.blg'
+[37] biber-darwin:340> INFO - === Wed Mar 13, 2024, 23:16:15
+[48] Biber.pm:419> INFO - Reading 'main.bcf'
+[135] Biber.pm:976> INFO - Using all citekeys in bib section 0
+[143] Biber.pm:4419> INFO - Processing section 0
+[148] Biber.pm:4610> INFO - Looking for bibtex file 'FHS_EP_Sokrates-Nichtwissen_u_kuenstliche_Intelligenz.bib' for section 0
+[149] bibtex.pm:1713> INFO - LaTeX decoding ...
+[153] bibtex.pm:1519> INFO - Found BibTeX data source 'FHS_EP_Sokrates-Nichtwissen_u_kuenstliche_Intelligenz.bib'
+[182] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'normalization = NFD' with 'normalization = prenormalized'
+[182] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'variable = shifted' with 'variable = non-ignorable'
+[182] UCollate.pm:68> INFO - Overriding locale 'de-DE' defaults 'level = 4' with 'level = 2'
+[182] Biber.pm:4239> INFO - Sorting list 'cms/global//global/global' of type 'entry' with template 'cms' and locale 'de-DE'
+[182] Biber.pm:4245> INFO - No sort tailoring available for locale 'de-DE'
+[184] bbl.pm:660> INFO - Writing 'main.bbl' with encoding 'UTF-8'
+[186] bbl.pm:763> INFO - Output to main.bbl

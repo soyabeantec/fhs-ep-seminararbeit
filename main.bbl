@@ -1,0 +1,182 @@
+% $ biblatex auxiliary file $
+% $ biblatex bbl format version 3.2 $
+% Do not modify the above lines!
+%
+% This is an auxiliary file used by the 'biblatex' package.
+% This file may safely be deleted. It will be recreated by
+% biber as required.
+%
+\begingroup
+\makeatletter
+\@ifundefined{ver@biblatex.sty}
+  {\@latex@error
+     {Missing 'biblatex' package}
+     {The bibliography requires the 'biblatex' package.}
+      \aftergroup\endinput}
+  {}
+\endgroup
+
+
+\refsection{0}
+  \datalist[entry]{cms/global//global/global}
+    \entry{gunther}{book}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=f436c82ec364d4253fcbfcc0c27560e1}{%
+           family={Günther},
+           familyi={G\bibinitperiod},
+           given={Gotthard},
+           giveni={G\bibinitperiod},
+           givenun=0}}%
+      }
+      \list{location}{1}{%
+        {Frankfurt am Main}%
+      }
+      \list{publisher}{1}{%
+        {Vittorio Klostermann}%
+      }
+      \strng{namehash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \strng{fullhash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \strng{bibnamehash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \strng{authorbibnamehash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \strng{authornamehash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \strng{authorfullhash}{f436c82ec364d4253fcbfcc0c27560e1}
+      \field{sortinit}{G}
+      \field{sortinithash}{32d67eca0634bf53703493fb1090a2e8}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{edition}{3}
+      \field{title}{Das Bewu{ß}tsein der Maschinen: Eine Metaphysik der Kybernetik}
+      \field{year}{2021}
+      \true{nocite}
+    \endentry
+    \entry{platon-apologie}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2baf3f5223080b8067f5af7843427cc}{%
+           family={Platon},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0d29469a5c9fbcb86a5650f3d41f3a25}{%
+           family={Schleiermacher},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie Verlag}%
+      }
+      \strng{namehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{fullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{bibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorbibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authornamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorfullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{editorbibnamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editornamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editorfullhash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \field{extraname}{1}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{1}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Platons Werke}
+      \field{note}{Neuausgabe der zweiten verbesserten Auflage (Berlin 1817-26) bzw. der ersten Auflage des dritten Teils (Berlin 1828)}
+      \field{title}{Apologie}
+      \field{year}{1985}
+    \endentry
+    \entry{platon-meno}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2baf3f5223080b8067f5af7843427cc}{%
+           family={Platon},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0d29469a5c9fbcb86a5650f3d41f3a25}{%
+           family={Schleiermacher},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie Verlag}%
+      }
+      \strng{namehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{fullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{bibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorbibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authornamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorfullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{editorbibnamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editornamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editorfullhash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \field{extraname}{2}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{2}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Platons Werke}
+      \field{note}{Neuausgabe der zweiten verbesserten Auflage (Berlin 1817-26) bzw. der ersten Auflage des dritten Teils (Berlin 1828)}
+      \field{title}{Meno}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+    \entry{platon-theaitetos}{incollection}{}
+      \name{author}{1}{}{%
+        {{un=0,uniquepart=base,hash=e2baf3f5223080b8067f5af7843427cc}{%
+           family={Platon},
+           familyi={P\bibinitperiod}}}%
+      }
+      \name{editor}{1}{}{%
+        {{hash=0d29469a5c9fbcb86a5650f3d41f3a25}{%
+           family={Schleiermacher},
+           familyi={S\bibinitperiod},
+           given={F.},
+           giveni={F\bibinitperiod}}}%
+      }
+      \list{location}{1}{%
+        {Berlin}%
+      }
+      \list{publisher}{1}{%
+        {Akademie Verlag}%
+      }
+      \strng{namehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{fullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{bibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorbibnamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authornamehash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{authorfullhash}{e2baf3f5223080b8067f5af7843427cc}
+      \strng{editorbibnamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editornamehash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \strng{editorfullhash}{0d29469a5c9fbcb86a5650f3d41f3a25}
+      \field{extraname}{3}
+      \field{sortinit}{P}
+      \field{sortinithash}{ff3bcf24f47321b42cb156c2cc8a8422}
+      \field{extradate}{3}
+      \field{extradatescope}{labelyear}
+      \field{labeldatesource}{}
+      \field{labelnamesource}{author}
+      \field{labeltitlesource}{title}
+      \field{booktitle}{Platons Werke}
+      \field{note}{Neuausgabe der zweiten verbesserten Auflage (Berlin 1817-26) bzw. der ersten Auflage des dritten Teils (Berlin 1828)}
+      \field{title}{Theaitetos}
+      \field{year}{1985}
+      \true{nocite}
+    \endentry
+  \enddatalist
+\endrefsection
+\endinput
+
